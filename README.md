@@ -29,3 +29,5 @@ Si llegaste hasta acá, esto no lo tenes que volver a hacer jaja, es para setear
 6. Desde la terminal parandote en la carpeta que tiene el archivo etl.py, ejecuta: python etl.py
 
 Voilá!
+
+TIP: Para ir de una ruta a otra desde la terminal tenes que poner cd "RUTA_COMPLETA" o si queres acceder a cierta carpeta dentro de donde estas posicionado pone cd "CARPETA". Si queres volver para atras hace cd ..
