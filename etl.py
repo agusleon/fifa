@@ -1,10 +1,8 @@
 import gc
 import sys
-import numpy as np
 import requests
 import pandas as pd
 from pandas.io.json import json_normalize
-from datetime import datetime
 
 # SeasonID corresponds to FIFA Worldcup 2014 in Brazil
 url = "https://api.fifa.com/api/v1/calendar/matches?idSeason=251164&count=500&language=en"
